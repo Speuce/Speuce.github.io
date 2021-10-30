@@ -16,13 +16,13 @@ In order to follow along with this guide, it is recommended that you are familia
 ## More Resources
 
 **Markdown**
-  - 
+  - [Getting Started | Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 **Resume Writing**
+  - [UManitoba's Career Services Resume Workbook](https://umanitoba.ca/student/careerservices/media/Resume.pdf)
 
 **Technical Writing**
-
   - Andrew Etter's book _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_
 
 ## Acknowledgements
-**My Jekyll Template:** [Pudhina by knhash](https://github.com/knhash/Pudhina)
+**Jekyll Template:** [Pudhina by knhash](https://github.com/knhash/Pudhina)
