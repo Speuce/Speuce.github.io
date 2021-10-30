@@ -38,7 +38,7 @@ Etter recommends using DVCS to manage and work on technical writing. It allows o
     **Result:** You have now created the space where your markdown resume will live, a repository.
     
 3. **Upload your Markdown-Formatted Resume**
-    1. Click on 'uploading an existing file', pictured below:
+    1. Click on 'uploading an existing file', pictured below:  
             <img width="465" alt="Screen Shot 2021-10-30 at 4 54 21 PM" src="https://user-images.githubusercontent.com/8062248/139559398-0ad5360c-4a7d-431e-8b54-9fe13b614972.png">  
     3. Click on 'choose your files'.
     4. Select your 'index.md' markdown file.
