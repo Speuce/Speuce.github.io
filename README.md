@@ -11,7 +11,7 @@ In order to follow along with this guide, it is recommended that you are familia
 
 Following Etter's general principles of Technical Writing, these steps will guide you through the process hosting your resume on GitHub Pages.
 
-### Use Lightweight Markup (Markdown)**   
+### Use Lightweight Markup (Markdown)   
 Etter recommends using lightweight markup for modern technical writing (see: [Why Lightweight Markup?]()). Markdown is one popular 'flavour' of lightweight markup that integrates well with GitHub.  
 1. **Choose a Markdown editor to use for your resume.**
     Some options include:
@@ -48,8 +48,19 @@ Etter recommends using DVCS to manage and work on technical writing. It allows o
     **Result:** You will now see 'index.md' listed in your repository:  
         <img width="1012" alt="Screen Shot 2021-10-30 at 4 58 59 PM" src="https://user-images.githubusercontent.com/8062248/139559477-6b652b99-e441-4d63-afd8-0286a5f4cf29.png">. 
 
-  
+### Format with a static site Generator
 
+Etter recommends using a static site (as opposed to a dynamic site) because of their speed, ease of use, and security. They are essentially just a series of HTML/CSS/JavaScript files. Etter recommends using a static site generator in order to build HTML/CSS/JavaScript from Markdown files and a provided theme. For this guide, Jekyll is suggested as a static site generator.
+
+1. **Click on 'Settings' from your repository's main page**
+    <img width="1044" alt="Screen Shot 2021-10-30 at 5 28 10 PM" src="https://user-images.githubusercontent.com/8062248/139560092-679d5260-af0c-416b-a39c-541398085305.png">
+2. **Click on 'Pages' on the left hand side**
+3. **Click 'Choose a theme' under 'Theme Chooser'**
+4. **Select a theme from the options provded by GitHub**
+5. **Click on 'Select' Theme**
+6. **Click on the link in the green box 'Your site is published at ...', pictured below:
+    https://gyazo.com/7dc34faf1c617010c9c15d44d6a99f9e
+**Result:** Your resumé should be visible, with the selected theme applied.
 
 ## Frequently Asked Questions
 
