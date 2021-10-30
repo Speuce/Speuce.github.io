@@ -13,14 +13,14 @@ Following Etter's general principles of Technical Writing, these steps will guid
 
 1. Use Lightweight Markup (Markdown)   
 Etter recommends using lightweight markup for modern technical writing (see: [Why Lightweight Markup?]()). Markdown is one popular 'flavour' of lightweight markup that integrates well with GitHub.  
-  1. **Choose a Markdown editor to use for your resume.**
-      Some options include:
-        - MarkdownPad (Windows)
-        - iAWriter (macOS)
-        - ReTex (Linux)
-  2. **Format your resume in Markdown using your chosen Markdown editor**
-      If you need help with writing Markdown, see: [More resources - Markdown]().
-  3. **Save your resume as `index.md`**
+    1. **Choose a Markdown editor to use for your resume.**
+        Some options include:
+          - MarkdownPad (Windows)
+          - iAWriter (macOS)
+          - ReTex (Linux)
+    2. **Format your resume in Markdown using your chosen Markdown editor**
+        If you need help with writing Markdown, see: [More resources - Markdown]().
+    3. **Save your resume as `index.md`**
 
 2. Use Distributed Version Control (DVCS)
 
