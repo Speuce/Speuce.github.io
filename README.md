@@ -5,7 +5,7 @@ This document is exists as a guide to creating and hosting a resume using Markdo
 
 ## Prerequisites
 
-In order to follow along with this guide, it is recommended that you are familiar with Markdown, and have a resume to use that is formatted in Markdown. See the 'More Resources' of this guide for resources on both resume writing and Markdown.
+In order to follow along with this guide, it is recommended that you are familiar with Markdown, and have a resume to use that is formatted in Markdown. See the [More Resources](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#more-resources) section of this guide for resources on both resume writing and Markdown.
 
 ## Frequently Asked Questions
 
@@ -25,4 +25,4 @@ In order to follow along with this guide, it is recommended that you are familia
   - Andrew Etter's book _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_
 
 ## Acknowledgements
-
+**My Jekyll Template:** [Pudhina by knhash](https://github.com/knhash/Pudhina)
