@@ -39,9 +39,10 @@ Etter recommends using DVCS to manage and work on technical writing. It allows o
     
 3. **Upload your Markdown-Formatted Resume**
     1. Click on 'uploading an existing file', pictured below:
-    2. Click on 'choose your files'.
-    3. Select your 'index.md' markdown file.
-    4. Click on 'Commit changes' at the bottom.
+            <img width="465" alt="Screen Shot 2021-10-30 at 4 54 21 PM" src="https://user-images.githubusercontent.com/8062248/139559398-0ad5360c-4a7d-431e-8b54-9fe13b614972.png">  
+    3. Click on 'choose your files'.
+    4. Select your 'index.md' markdown file.
+    5. Click on 'Commit changes' at the bottom.
     **Result:** You will now see 'index.md' listed in your repository:  
         <img width="1012" alt="Screen Shot 2021-10-30 at 4 58 59 PM" src="https://user-images.githubusercontent.com/8062248/139559477-6b652b99-e441-4d63-afd8-0286a5f4cf29.png">. 
 
