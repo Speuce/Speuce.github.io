@@ -16,7 +16,7 @@ In order to follow along with this guide, it is recommended that you are familia
 ## More Resources
 
 **Markdown**
-  - [Getting Started | Markdown Guide](https://www.markdownguide.org/getting-started/)
+  - [Getting Started - Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 **Resume Writing**
   - [UManitoba's Career Services Resume Workbook](https://umanitoba.ca/student/careerservices/media/Resume.pdf)
