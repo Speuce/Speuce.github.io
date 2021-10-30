@@ -46,7 +46,7 @@
 
   .wrapper {
     max-width: 800px;
-    margin: 60px auto; }
+    margin: 0 auto 60px auto; }
 
 /* =Header *//*************************************************************/
   .header {
@@ -90,7 +90,7 @@
 
 /* =Titles *//*************************************************************/
   .page-title {
-    margin: 30px auto;
+    margin: 10px auto;
     text-align: center; }
 
   .page-title__text {
@@ -134,6 +134,7 @@
 
 /* =Post page *//*************************************************************/
   .about {
+    margin-top: 20px;
     color: #828282;
     text-align: center;
     line-height: 24px; }
@@ -143,7 +144,7 @@
     letter-spacing: 9.09px; }
 
   .about__text {
-    font-size: 100%; }
+    font-size: 80%; }
 
   .center-text {
     text-align: center;
