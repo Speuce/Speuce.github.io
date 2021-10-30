@@ -59,7 +59,7 @@ Etter recommends using a static site (as opposed to a dynamic site) because of t
 4. **Select a theme from the options provded by GitHub**
 5. **Click on 'Select' Theme**
 6. **Click on the link in the green box 'Your site is published at ...', pictured below:
-    https://gyazo.com/7dc34faf1c617010c9c15d44d6a99f9e
+    [![Image from Gyazo](https://i.gyazo.com/7dc34faf1c617010c9c15d44d6a99f9e.gif)](https://gyazo.com/7dc34faf1c617010c9c15d44d6a99f9e) 
 **Result:** Your resumé should be visible, with the selected theme applied.
 
 ## Frequently Asked Questions
