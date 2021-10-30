@@ -11,7 +11,7 @@ In order to follow along with this guide, it is recommended that you are familia
 
 Following Etter's general principles of Technical Writing, these steps will guide you through the process hosting your resume on GitHub Pages.
 
-### 1. Use Lightweight Markup (Markdown)
+1. Use Lightweight Markup (Markdown)
 Etter recommends using lightweight markup for modern technical writing (see: [Why Lightweight Markup?]()). Markdown is one popular 'flavour' of lightweight markup that integrates well with GitHub.
   1.1. **Choose a Markdown editor to use for your resume.**
       Some options include:
@@ -21,8 +21,8 @@ Etter recommends using lightweight markup for modern technical writing (see: [Wh
   1.2. **Format your resume in Markdown using your chosen Markdown editor**
       If you need help with writing Markdown, see: [More resources - Markdown]().
   1.3. **Save your resume as `index.md`**
-  
-### 2. Use Distributed Version Control (DVCS)
+
+2. Use Distributed Version Control (DVCS)
 
   Etter recommend using DVCS to manage and work on technical writing. It allows offline work, concurrent work with others, and a vast number of integrations. For this guide, GitHub is suggested for DVCS.
   
