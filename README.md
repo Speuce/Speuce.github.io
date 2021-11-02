@@ -30,18 +30,15 @@ Etter recommends using DVCS to manage and work on technical writing. It allows y
 
 For more information on Git/GitHub see: [More Resources – Git/GitHub](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#gitgithub)
 
-1. **Create a Github Account**  
+1. **Create a Github Account**
     Go to [github.com/signup](https://github.com/signup) and follow the prompts.
-    
 2. **Create Your Repository**
     1. Click 'Create Repository' on the left-hand side
     2. Enter YourUsername.github.io in 'Repository Name'.  
         For example, for the user 'xeraxa4717':  
         <img width="509" alt="Screen Shot 2021-10-30 at 4 44 01 PM" src="https://user-images.githubusercontent.com/8062248/139559190-527bc3ec-c6b1-4e7a-a558-8e54975e3de5.png"> 
-    3. Click 'Create Repository' at the bottom of the page.   
- 
+    3. Click 'Create Repository' at the bottom of the page. 
     **Result:** You have now created the space where your markdown resume will live, a repository.
-    
 3. **Upload your Markdown-Formatted Resume**
     1. Click on 'uploading an existing file', pictured below:  
             ![image showing uploading an existing file](/assets/img/img2.png)  
