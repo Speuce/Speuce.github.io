@@ -20,8 +20,8 @@ Etter recommends using lightweight markup for modern technical writing (see: [Wh
       - ReTex (Linux)
 2. **Format your resume in Markdown using your chosen Markdown editor**  
     - If you need help with writing Markdown, see: [More Resources – Markdown](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#markdown).
-    - Use headers and lists wherever it is appropriate, as suggested by Etter himself.
-    - Use _italics_ for _emphasis_
+    - Use headers and lists wherever it is appropriate, as suggested by Etter's book.
+    - Use _italics_ for _emphasis_, as suggested by Etter's book.
 3. **Save your resume as `index.md`**
 
 ### Use a Distributed Version Control System(DVCS)
