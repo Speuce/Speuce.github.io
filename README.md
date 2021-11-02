@@ -41,7 +41,7 @@ Etter recommends using DVCS to manage and work on technical writing. It allows o
     
 3. **Upload your Markdown-Formatted Resume**
     1. Click on 'uploading an existing file', pictured below:  
-            ![image showing uploading an existing file](/assets/img/Screen Shot 2021-10-30 at 4.54.21 PM.png)
+            ![image showing uploading an existing file](/assets/img/img2.png)  
     2. Click on 'choose your files'.
     3. Select your 'index.md' markdown file.
     4. Click on 'Commit changes' at the bottom.  
@@ -54,7 +54,7 @@ Etter recommends using DVCS to manage and work on technical writing. It allows o
 Etter recommends using a static site (as opposed to a dynamic site) because of their speed, ease of use, and security. They are essentially just a series of HTML/CSS/JavaScript files. Etter recommends using a static site generator in order to build HTML/CSS/JavaScript from Markdown files and a provided theme. For this guide, Jekyll is suggested as a static site generator.
 
 1. **Click on 'Settings' from your repository's main page**
-    <img width="1044" alt="Screen Shot 2021-10-30 at 5 28 10 PM" src="https://user-images.githubusercontent.com/8062248/139560092-679d5260-af0c-416b-a39c-541398085305.png">
+    ![image showing settings button](/assets/img/img2.png)
 2. **Click on 'Pages' on the left hand side**
 3. **Click 'Choose a theme' under 'Theme Chooser'**
 4. **Select a theme from the options provded by GitHub**
