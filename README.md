@@ -59,9 +59,9 @@ Etter recommends using a static site (as opposed to a dynamic site) because of t
 3. **Click 'Choose a theme' under 'Theme Chooser'**
 4. **Select a theme from the options provded by GitHub**
 5. **Click on 'Select' Theme**
-6. **Click on the link in the green box 'Your site is published at ...',** pictured below:
+6. **Click on the link in the green box 'Your site is published at ...',** as shown below.
+    **Result:** Your resumé should be visible, with the selected theme applied. 
     [![Image from Gyazo](https://i.gyazo.com/7dc34faf1c617010c9c15d44d6a99f9e.gif)](https://gyazo.com/7dc34faf1c617010c9c15d44d6a99f9e) 
-**Result:** Your resumé should be visible, with the selected theme applied.
 
 ## Frequently Asked Questions
 
@@ -73,6 +73,11 @@ In his book, Andrew Etter lists a few main reasons for one to choose Lightweight
   - It works well with version control (unlike PDFs or Word documents)
 
 ### Can I upload my markdown resume another way?
+Yes, you can:
+1. Go to the home page of your repository ('github.com/yourusername/yourusername.github.io).
+2. click on 'add a file'.
+3. Drag and drop your markdown resume into the box.
+4. Click 'commit' at the bottom of the page.
 
 ## More Resources
 
