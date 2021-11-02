@@ -1,6 +1,6 @@
 # Writing and hosting a Resumé on GitHub Pages
 
-**Purpose:**  This document is exists as a guide to hosting a resume online using Markdown, Jekyll and GitHub Pages. Additionally, this guide will relate this process to the general principles of Technical Writing as descibed in Andrew Etter's book _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_.
+**Purpose:**  This document exists as a guide to hosting a resume online using Markdown, Jekyll and GitHub Pages. Additionally, this guide will relate this process to the general principles of Technical Writing as described in Andrew Etter's book _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_.
 
 ## Prerequisites
 
@@ -8,10 +8,10 @@ In order to follow along with this guide, it is recommended that you are familia
 
 ## The Guide
 
-Following Etter's general principles of Technical Writing, these steps will guide you through the process hosting your resume on GitHub Pages.
+Following Etter's general principles of Technical Writing, these steps will guide you through the process of hosting your resume on GitHub Pages.
 
 ### Use Lightweight Markup (Markdown)   
-Etter recommends using lightweight markup for modern technical writing (see: [Why Should I use Lightweight Markup?](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#why-should-i-use-lightweight-markup)). Markdown is one popular 'flavour' of lightweight markup that integrates well with GitHub.  
+Etter recommends using lightweight markup for modern technical writing (see: [Why Should I Use Lightweight Markup?](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#why-should-i-use-lightweight-markup)). Markdown is one popular 'flavour' of lightweight markup that integrates well with GitHub.  
 
 1. **Choose a Markdown editor to use for your resume.**
     Some options include:
@@ -35,9 +35,9 @@ For more information on git/GitHub see: [More Resources – Git/GitHub](https://
     
 2. **Create Your Repository**
     1. Click 'Create Repository' on the left-hand side
-    2. Enter YourUsername.github.io in 'Repository Name'. 
+    2. Enter YourUsername.github.io in 'Repository Name'.  
         For example, for the user 'xeraxa4717':  
-        <img width="509" alt="Screen Shot 2021-10-30 at 4 44 01 PM" src="https://user-images.githubusercontent.com/8062248/139559190-527bc3ec-c6b1-4e7a-a558-8e54975e3de5.png">. 
+        <img width="509" alt="Screen Shot 2021-10-30 at 4 44 01 PM" src="https://user-images.githubusercontent.com/8062248/139559190-527bc3ec-c6b1-4e7a-a558-8e54975e3de5.png"> 
     3. Click 'Create Repository' at the bottom of the page.   
  
     **Result:** You have now created the space where your markdown resume will live, a repository.
@@ -54,7 +54,7 @@ For more information on git/GitHub see: [More Resources – Git/GitHub](https://
 
 ### Format with a static site Generator
 
-Etter recommends using a static site (as opposed to a dynamic site) because of their speed, ease of use, and security. They are essentially just a series of HTML/CSS/JavaScript files. Etter recommends using a static site generator in order to build HTML/CSS/JavaScript from Markdown files and a provided theme. For this guide, Jekyll is suggested as a static site generator.
+Etter recommends using a static site (as opposed to a dynamic site) because of its speed, ease of use, and security. Static sites can essentially be hosted anywhere, require no external packages, and use a small amount of hardware. They are essentially just a series of HTML/CSS/JavaScript files. Etter recommends using a static site generator in order to build HTML/CSS/JavaScript from Markdown files and a provided theme. Static site generators make it easy for you to make changes to your site, without having to deal with the issues that come with HTML. For this guide, Jekyll is suggested as a static site generator. Jekyll is easy to use and run, and comes with many preexisting themes to customize the appearance of your website.
 
 1. **Click on 'Settings' from your repository's main page**
     ![image showing settings button](/assets/img/img3.png)
