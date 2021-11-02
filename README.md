@@ -11,7 +11,8 @@ In order to follow along with this guide, it is recommended that you are familia
 Following Etter's general principles of Technical Writing, these steps will guide you through the process hosting your resume on GitHub Pages.
 
 ### Use Lightweight Markup (Markdown)   
-Etter recommends using lightweight markup for modern technical writing (see: [Why Lightweight Markup?]()). Markdown is one popular 'flavour' of lightweight markup that integrates well with GitHub.  
+Etter recommends using lightweight markup for modern technical writing (see: [Why Should I use Lightweight Markup?](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#why-should-i-use-lightweight-markup)). Markdown is one popular 'flavour' of lightweight markup that integrates well with GitHub.  
+
 1. **Choose a Markdown editor to use for your resume.**
     Some options include:
       - MarkdownPad (Windows)
@@ -23,9 +24,11 @@ Etter recommends using lightweight markup for modern technical writing (see: [Wh
     - Use _italics_ for _emphasis_
 3. **Save your resume as `index.md`**
 
-### Use Distributed Version Control (DVCS)
+### Use a Distributed Version Control System(DVCS)
 
-Etter recommends using DVCS to manage and work on technical writing. It allows offline work, concurrent work with others, and a vast number of integrations. For this guide, GitHub is suggested for DVCS.
+Etter recommends using DVCS to manage and work on technical writing. It allows you to work on changes offline, work with others in parallel, and offers a vast number of integrations. DVCS is used in industry for both technical writing and software engineering. For this guide, GitHub and Git are suggested for DVCS. GitHub is free, publicly available, and offers free hosting of static websites via GitHub Pages.
+
+For more information on git/GitHub see: [Git/GitHub Resources]()
 
 1. **Create a Github Account**
     Go to [github.com/signup](https://github.com/signup) and follow the prompts.
@@ -67,7 +70,7 @@ Etter recommends using a static site (as opposed to a dynamic site) because of t
 
 ### Why should I use Lightweight Markup?
 In his book, Andrew Etter lists a few main reasons for one to choose Lightweight Markup over other options:
-  - It is human-readable in its raw form.
+  - It is completely human-readable in its raw/unprocessed form.
   - It doesn't require any specialized or expensive software.
   - It can be created using virtually any text editor, on any operating system
   - It works well with version control (unlike PDFs or Word documents)
@@ -82,13 +85,18 @@ Yes, you can:
 ## More Resources
 
 ### Markdown
-  - [Getting Started - Markdown Guide](https://www.markdownguide.org/getting-started/)
+    - [Getting Started - Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 ### Resume Writing
-  - [UManitoba's Career Services Resume Workbook](https://umanitoba.ca/student/careerservices/media/Resume.pdf)
+    - [UManitoba's Career Services Resume Workbook](https://umanitoba.ca/student/careerservices/media/Resume.pdf)
 
 ### Technical Writing
-  - Andrew Etter's book _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_
+    - Andrew Etter's book _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_
+
+### Git/GitHub
+    - [Pro Git Book – What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+    - [GitHub Hello World guide](https://guides.github.com/activities/hello-world/)
+    
 
 ## Acknowledgements
 **Jekyll Template:** [Pudhina by knhash](https://github.com/knhash/Pudhina)
