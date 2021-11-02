@@ -61,7 +61,7 @@ Etter recommends using a static site (as opposed to a dynamic site) because of t
 5. **Click on 'Select' Theme**
 6. **Click on the link in the green box 'Your site is published at ...',** as shown below.
     **Result:** Your resumé should be visible, with the selected theme applied. 
-    [![Image from Gyazo](https://i.gyazo.com/7dc34faf1c617010c9c15d44d6a99f9e.gif)](https://gyazo.com/7dc34faf1c617010c9c15d44d6a99f9e) 
+    ![The result](/assets/img/show_page.gif) 
 
 ## Frequently Asked Questions
 
