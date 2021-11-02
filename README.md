@@ -65,14 +65,14 @@ Etter recommends using a static site (as opposed to a dynamic site) because of t
 
 ## Frequently Asked Questions
 
-### Why Lightweight Markup?
+### Why should I use Lightweight Markup?
 In his book, Andrew Etter lists a few main reasons for one to choose Lightweight Markup over other options:
   - It is human-readable in its raw form.
   - It doesn't require any specialized or expensive software.
   - It can be created using virtually any text editor, on any operating system
   - It works well with version control (unlike PDFs or Word documents)
 
-### help (TODO)
+### Can I upload my markdown resume another way?
 
 ## More Resources
 
