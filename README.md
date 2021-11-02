@@ -30,7 +30,7 @@ Etter recommends using DVCS to manage and work on technical writing. It allows y
 
 For more information on Git/GitHub see: [More Resources – Git/GitHub](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#gitgithub)
 
-1. **Create a Github Account**
+1. **Create a Github Account**  
     Go to [github.com/signup](https://github.com/signup) and follow the prompts.
     
 2. **Create Your Repository**
