@@ -60,11 +60,13 @@ Etter recommends using a static site (as opposed to a dynamic site) because of i
     ![image showing settings button](/assets/img/img3.png)
 2. **Click on 'Pages' on the left hand side**
 3. **Click 'Choose a theme' under 'Theme Chooser'**
-4. **Select a theme from the options provded by GitHub**
+4. **Choose a theme from the options provided by GitHub**
 5. **Click on 'Select' Theme**
-6. **Click on the link in the green box 'Your site is published at ...',** as shown below.
-    **Result:** Your resumé should be visible, with the selected theme applied. 
+6. **Click on the link in the green box 'Your site is published at ...',** as shown below:
     ![The result](/assets/img/show_page.gif) 
+
+## Final Result
+Your Markdown resumé will be visible on GitHub Pages, with the selected Jekyll theme applied. 
 
 ## Frequently Asked Questions
 
