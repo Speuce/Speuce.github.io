@@ -18,8 +18,9 @@ Etter recommends using lightweight markup for modern technical writing (see: [Wh
       - iAWriter (macOS)
       - ReTex (Linux)
 2. **Format your resume in Markdown using your chosen Markdown editor**  
-    If you need help with writing Markdown, see: [More resources - Markdown]().
+    - If you need help with writing Markdown, see: [More resources - Markdown]().
     - Use headers and lists wherever it is appropriate, as suggested by Etter himself.
+    - Use _italics_ for _emphasis_
 3. **Save your resume as `index.md`**
 
 ### Use Distributed Version Control (DVCS)
