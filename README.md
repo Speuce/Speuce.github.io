@@ -19,7 +19,7 @@ Etter recommends using lightweight markup for modern technical writing (see: [Wh
       - iAWriter (macOS)
       - ReTex (Linux)
 2. **Format your resume in Markdown using your chosen Markdown editor**  
-    - If you need help with writing Markdown, see: [More resources - Markdown]().
+    - If you need help with writing Markdown, see: [More Resources – Markdown]().
     - Use headers and lists wherever it is appropriate, as suggested by Etter himself.
     - Use _italics_ for _emphasis_
 3. **Save your resume as `index.md`**
@@ -28,7 +28,7 @@ Etter recommends using lightweight markup for modern technical writing (see: [Wh
 
 Etter recommends using DVCS to manage and work on technical writing. It allows you to work on changes offline, work with others in parallel, and offers a vast number of integrations. DVCS is used in industry for both technical writing and software engineering. For this guide, GitHub and Git are suggested for DVCS. GitHub is free, publicly available, and offers free hosting of static websites via GitHub Pages.
 
-For more information on git/GitHub see: [Git/GitHub Resources]()
+For more information on git/GitHub see: [More Resources – Git/GitHub](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#gitgithub)
 
 1. **Create a Github Account**
     Go to [github.com/signup](https://github.com/signup) and follow the prompts.
