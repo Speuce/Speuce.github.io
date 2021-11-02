@@ -101,7 +101,7 @@ Yes, you can:
     
 
 ## Acknowledgements
-**Jekyll Template:** [Pudhina by knhash](https://github.com/knhash/Pudhina)
+**Jekyll Template:** [Pudhina by knhash](https://github.com/knhash/Pudhina)  
 **Editors**:
 - Andrea Abellera
 - Megan Galbraith
