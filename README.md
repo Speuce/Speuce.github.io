@@ -47,7 +47,7 @@ Etter recommends using DVCS to manage and work on technical writing. It allows o
     4. Click on 'Commit changes' at the bottom.  
    
     **Result:** You will now see 'index.md' listed in your repository:  
-        <img width="1012" alt="Screen Shot 2021-10-30 at 4 58 59 PM" src="https://user-images.githubusercontent.com/8062248/139559477-6b652b99-e441-4d63-afd8-0286a5f4cf29.png">. 
+        <img width="1012" alt="Screen Shot 2021-10-30 at 4 58 59 PM" src="https://user-images.githubusercontent.com/8062248/139559477-6b652b99-e441-4d63-afd8-0286a5f4cf29.png">   
 
 ### Format with a static site Generator
 
