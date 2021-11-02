@@ -1,4 +1,4 @@
-# Writing and hosting a Resumé on GitHub Pages
+# Writing and hosting a Résumé on GitHub Pages
 
 **Purpose:**  This document exists as a guide to hosting a resume online using Markdown, Jekyll and GitHub Pages. Additionally, this guide will relate this process to the general principles of Technical Writing as described in Andrew Etter's book _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_.
 
