@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Matthew Kwiatkowski
-subtitle:
 ---
 
 ### EDUCATION
@@ -9,13 +8,13 @@ subtitle:
 **Bachelor Of Computer Science Honours (Co-op)**  
 _University of Manitoba, Winnipeg_  
 Expected Graduation – 2023  
-GPA – 4.48/4.5  
+GPA – x.xx/4.5  
 Pursuing Specializations in Artificial Intelligence and Software Engineering.
 
 ### EXPERIENCE
 
 **Jr. Software Engineer** - FarmLink Marketing Solutions, Winnipeg 
-<span style="float: right; ">May 2021 - Present</span>  
+<span style="float: right;">May 2021 - Present</span>  
 
   - Creating interactive data visualizations using Vue and FusionCharts, allowing users to interact with their data in an intuitive manner on both desktop and mobile.
   - Participating in code review, maintaining documentation and daily scrum activities.
@@ -23,7 +22,7 @@ Pursuing Specializations in Artificial Intelligence and Software Engineering.
 
  
 **Line Cook/Schedule Manager** - Santa Lucia Pizza, Winniepg 
-<span style="float: right; ">Aug. 2018 – May 2021</span>  
+<span style="float: right;">Aug. 2018 – May 2021</span>  
 
   - Worked closely and communicated regularly with a diverse group of people to understand their needs with regards to scheduling.
   - Maintained communication in a fast-paced environment to ensure the timely completion of orders.
@@ -57,7 +56,7 @@ Pursuing Specializations in Artificial Intelligence and Software Engineering.
 ### EXTRACURRICULAR
 
 **Command and Data Team** - U of M Space Applications and Technology Society
-<span style="float: right; ">2020-2021</span>  
+<span style="float: right;">2020-2021</span>  
 
   - Implemented unit testing into the pre-existing codebase to maintain test coverage of important features before sending the code to launch.
   - Worked with an embedded system to implement a command handling protocol to route incoming commands to the appropriate location.
@@ -65,7 +64,7 @@ Pursuing Specializations in Artificial Intelligence and Software Engineering.
  
 
 **Data and Science Team – Lead** - Kodiak Aeronautics and Space Photography (KASP)
-<span style="float: right; ">2016-2019</span>  
+<span style="float: right;">2016-2019</span>  
 
   - Created a multi-input Arduino-based sensor array to collect data in high altitude.
   - Wrote software to process the received data afterwards to create visualizations to share with stakeholders.
