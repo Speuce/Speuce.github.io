@@ -87,17 +87,17 @@ Yes, you can:
 ## More Resources
 
 ### Markdown
-* [Getting Started - Markdown Guide](https://www.markdownguide.org/getting-started/)
+- [Getting Started - Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 ### Resume Writing
-* [UManitoba's Career Services Resume Workbook](https://umanitoba.ca/student/careerservices/media/Resume.pdf)
+- [UManitoba's Career Services Resume Workbook](https://umanitoba.ca/student/careerservices/media/Resume.pdf)
 
 ### Technical Writing
-* Andrew Etter's book _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_
+- Andrew Etter's book _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_
 
 ### Git/GitHub
-* [Pro Git Book – What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
-* [GitHub Hello World guide](https://guides.github.com/activities/hello-world/)
+- [Pro Git Book – What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+- [GitHub Hello World guide](https://guides.github.com/activities/hello-world/)
     
 
 ## Acknowledgements
