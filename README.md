@@ -76,7 +76,7 @@ In his book, Andrew Etter lists a few main reasons for one to choose Lightweight
 
 ### Can I upload my markdown resume another way?
 Yes, you can:
-1. Go to the home page of your repository ('github.com/yourusername/yourusername.github.io).
+1. Go to the home page of your repository ('github.com/yourusername/yourusername.github.io').
 2. click on 'add a file'.
 3. Drag and drop your markdown resume into the box.
 4. Click 'commit' at the bottom of the page.
