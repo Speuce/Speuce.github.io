@@ -31,7 +31,7 @@ Etter recommends using DVCS to manage and work on technical writing. It allows y
 For more information on Git/GitHub see: [More Resources – Git/GitHub](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#gitgithub)  
 
 1. **Create a Github Account**
-    Go to [github.com/signup](https://github.com/signup) and follow the prompts.  
+    Go to [github.com/signup](https://github.com/signup) and follow the prompts.
 2. **Create Your Repository**
     1. Click 'Create Repository' on the left-hand side, after you're logged in.
     2. Enter YourUsername.github.io in 'Repository Name'.  
@@ -45,7 +45,6 @@ For more information on Git/GitHub see: [More Resources – Git/GitHub](https://
     2. Click on 'choose your files'.
     3. Select your 'index.md' markdown file.
     4. Click on 'Commit changes' at the bottom.  
-   
     **Result:** You will now see 'index.md' listed in your repository:  
         ![image showing uploading an existing file](/assets/img/img2_5.png)  
 
