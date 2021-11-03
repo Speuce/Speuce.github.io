@@ -53,13 +53,13 @@ For more information on Git/GitHub see: [More Resources – Git/GitHub](https://
 
 Etter recommends using a static site (as opposed to a dynamic site) because of its speed, ease of use, and security. Static sites can essentially be hosted anywhere, require no external packages, and use a small amount of hardware. They are essentially just a series of HTML/CSS/JavaScript files. Etter recommends using a static site generator in order to build HTML/CSS/JavaScript from Markdown files and a provided theme. Static site generators make it easy for you to make changes to your site, without having to deal with the issues that come with HTML. For this guide, Jekyll is suggested as a static site generator. Jekyll is easy to use and run, and comes with many preexisting themes to customize the appearance of your website.
 
-1. **Click on 'Settings' from your repository's main page**
-    ![image showing settings button](/assets/img/img3.png)
-2. **Click on 'Pages' on the left hand side**
-3. **Click 'Choose a theme' under 'Theme Chooser'**
-4. **Choose a theme from the options provided by GitHub**
-5. **Click on 'Select' Theme**
-6. **Click on the link in the green box 'Your site is published at ...',** as shown below:
+1. **Click on 'Settings' from your repository's main page**. 
+    ![image showing settings button](/assets/img/img3.png)  
+2. **Click on 'Pages' on the left hand side**  
+3. **Click 'Choose a theme' under 'Theme Chooser'**  
+4. **Choose a theme from the options provided by GitHub**  
+5. **Click on 'Select' Theme**  
+6. **Click on the link in the green box 'Your site is published at ...',** as shown below:  
     ![The result](/assets/img/show_page.gif) 
 
 ### Final Result
