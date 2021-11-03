@@ -61,7 +61,7 @@ Etter recommends using a static site (as opposed to a dynamic site) because of i
 6. **Click on the link in the green box 'Your site is published at ...',** as shown below:
     ![The result](/assets/img/show_page.gif) 
 
-## Final Result
+### Final Result
 Your Markdown resumé will be visible on GitHub Pages, with the selected Jekyll theme applied. 
 
 ## Frequently Asked Questions
