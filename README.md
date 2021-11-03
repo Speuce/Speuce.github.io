@@ -13,7 +13,7 @@ Following Etter's general principles of Technical Writing, these steps will guid
 ### Use Lightweight Markup (Markdown)   
 Etter recommends using lightweight markup for modern technical writing (see: [Why Should I Use Lightweight Markup?](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#why-should-i-use-lightweight-markup)). Markdown is one popular 'flavour' of lightweight markup that integrates well with GitHub.  
 
-1. **Choose a Markdown editor to use for your resume.**
+1. **Choose a Markdown editor to use for your resume.**  
     Some options include:
       - MarkdownPad (Windows)
       - iAWriter (macOS)
