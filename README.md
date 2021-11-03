@@ -28,7 +28,8 @@ Etter recommends using lightweight markup for modern technical writing (see: [Wh
 
 Etter recommends using DVCS to manage and work on technical writing. It allows you to work on changes offline, work with others in parallel, and offers a vast number of integrations. DVCS is used in industry for both technical writing and software engineering. For this guide, GitHub and Git are suggested for DVCS. GitHub is free, publicly available, and offers free hosting of static websites via GitHub Pages.
 
-For more information on Git/GitHub see: [More Resources – Git/GitHub](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#gitgithub)
+For more information on Git/GitHub see: [More Resources – Git/GitHub](https://github.com/Speuce/Speuce.github.io/blob/master/README.md#gitgithub)  
+
 1. **Create a Github Account**
     Go to [github.com/signup](https://github.com/signup) and follow the prompts.
 2. **Create Your Repository**
