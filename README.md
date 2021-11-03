@@ -35,7 +35,7 @@ For more information on Git/GitHub see: [More Resources – Git/GitHub](https://
     1. Click 'Create Repository' on the left-hand side
     2. Enter YourUsername.github.io in 'Repository Name'.  
         For example, for the user 'xeraxa4717':  
-        <img width="509" alt="Screen Shot 2021-10-30 at 4 44 01 PM" src="https://user-images.githubusercontent.com/8062248/139559190-527bc3ec-c6b1-4e7a-a558-8e54975e3de5.png"> 
+        ![image showing uploading an existing file](/assets/img/img1.png)  
     3. Click 'Create Repository' at the bottom of the page. 
     **Result:** You have now created the space where your markdown resume will live, a repository.
 3. **Upload your Markdown-Formatted Resume**
@@ -46,7 +46,7 @@ For more information on Git/GitHub see: [More Resources – Git/GitHub](https://
     4. Click on 'Commit changes' at the bottom.  
    
     **Result:** You will now see 'index.md' listed in your repository:  
-        <img width="1012" alt="Screen Shot 2021-10-30 at 4 58 59 PM" src="https://user-images.githubusercontent.com/8062248/139559477-6b652b99-e441-4d63-afd8-0286a5f4cf29.png">   
+        ![image showing uploading an existing file](/assets/img/img2_5.png)  
 
 ### Format with a static site Generator
 
