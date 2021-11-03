@@ -37,7 +37,7 @@ For more information on Git/GitHub see: [More Resources – Git/GitHub](https://
     2. Enter YourUsername.github.io in 'Repository Name'.  
         For example, for the user 'xeraxa4717':  
         ![image showing uploading an existing file](/assets/img/img1.png)  
-    3. Click 'Create Repository' at the bottom of the page. 
+    3. Click 'Create Repository' at the bottom of the page.  
     **Result:** You have now created the space where your markdown resume will live, a repository.  
 3. **Upload your Markdown-Formatted Resume**
     1. Click on 'uploading an existing file', pictured below:  
