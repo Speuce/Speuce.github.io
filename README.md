@@ -6,9 +6,7 @@ Hosting your resume online using GitHub pages is a good way to stand out from ot
 
 ## Prerequisites
 
-In order to follow along with this guide, it is recommended that you:
-- Are familiar with Markdown
-- Have a resume to use that is ready to be formatted in Markdown.  
+In order to follow along with this guide, it is recommended that you are familiar with Markdown and have a resume to use that is ready to be formatted in Markdown.  
 
 If you are applying for a specific job, it is best that your resume is tailored to the specific employer. A key point in Etter's book is to know the intended target audience before writing. With a resume, the audience is your potential future employer. Research the employer and what their values are. Highlight skills that are specific to what they are looking for. 
 
