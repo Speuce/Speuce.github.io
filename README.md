@@ -32,7 +32,7 @@ For more information on Git/GitHub see: [More Resources – Git/GitHub](https://
 1. **Create a Github Account**
     Go to [github.com/signup](https://github.com/signup) and follow the prompts.
 2. **Create Your Repository**
-    1. Click 'Create Repository' on the left-hand side
+    1. Click 'Create Repository' on the left-hand side, after you're logged in.
     2. Enter YourUsername.github.io in 'Repository Name'.  
         For example, for the user 'xeraxa4717':  
         ![image showing uploading an existing file](/assets/img/img1.png)  
